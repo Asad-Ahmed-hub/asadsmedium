@@ -16,6 +16,12 @@ export default {
         source: 'title',
         maxLength: 96,
       },
+
+    },
+    {
+      name: 'description',
+      title: 'Description',
+      type: 'string',
     },
     {
       name: 'author',
